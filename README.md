@@ -1,6 +1,6 @@
 # kelime-oyunu
 
-Flutter kullanılara Dart dilinde yapılan bir kelime oyunudur.
+Flutter kullanılarak Dart dilinde yapılan bir kelime oyunudur.
 
 Oyun 8x10’luk(yani 8 sütun 10 satır olacak) bir alan üzerinde kelime seçilerek anlamlı kelimeler oluşturulacaktır. 
 Harfler yukarıdan aşağıya doğru düşecek. Oyun ilk başladığında yukarıdan aşağıya doğru 3 satır tamamen dolu olacak şekilde rastgele harfler indirilecek ve oyun başlanacaktır. 
